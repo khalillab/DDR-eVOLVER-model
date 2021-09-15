@@ -2,7 +2,7 @@
 Scripts for executing eVOLVER experiments and ecology simulations to study diversity-disturbance relationships in bioreactors.
 
 **Publication:**
- Christopher P. Mancuso, Hyunseok Lee, Clare I. Abreu,  Jeff Gore,  Ahmad S. Khalil (bioRxiv) 2020
+ Christopher P. Mancuso, Hyunseok Lee, Clare I. Abreu,  Jeff Gore,  Ahmad S. Khalil.  eLife 2021;10:e67175. DOI: https://doi.org/10.7554/eLife.67175
 
 
 **eVOLVER:**
